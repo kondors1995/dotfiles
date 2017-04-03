@@ -1,0 +1,9 @@
+2017/04/03-00:02:38.724 29914 Reusing MANIFEST /home/bick/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2017/04/03-00:02:38.725 29914 Recovering log #7
+2017/04/03-00:02:38.734 29914 Reusing old log /home/bick/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000007.log 
+2017/04/03-00:05:29.645 30020 Level-0 table #11: started
+2017/04/03-00:05:29.797 30020 Level-0 table #11: 1683606 bytes OK
+2017/04/03-00:05:29.850 30020 Delete type=0 #7
+2017/04/03-00:20:39.734 30020 Level-0 table #13: started
+2017/04/03-00:20:39.875 30020 Level-0 table #13: 1706824 bytes OK
+2017/04/03-00:20:39.929 30020 Delete type=0 #10
