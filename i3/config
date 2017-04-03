@@ -192,3 +192,5 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightne
 exec --no-startup-id nm-applet
 
 exec_always --no-startup-id feh --bg-scale /home/bick/Attēli/Walpapers/arch-linux.png
+
+bindsym $mod+q exec i3lock-fancy -p -g
